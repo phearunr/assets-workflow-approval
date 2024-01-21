@@ -2,7 +2,7 @@
 
 Asset Msg Admin Dashboard built with Nuxt 3, Tailwind CSS, TypeScript, ESLint, Prettier, EChart
 
-[feature](KEY-FEATURE.md)
+<!-- [feature](KEY-FEATURE.md) -->
 
 ## Demo
 
