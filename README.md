@@ -7,7 +7,7 @@ Asset Msg Admin Dashboard built with Nuxt 3, Tailwind CSS, TypeScript, ESLint, P
 ## Demo
 
 
-![image](https://github.com/story2Dev/nuxt3-admin-dashboard/assets/18229355/cc6d602f-fdcc-4688-847b-4f15d1356e60)
+![image](https://github.com/phearunr/assets-workflow-approval/blob/main/assets-msg-dashboard.png)
 
 ## USE 
 
