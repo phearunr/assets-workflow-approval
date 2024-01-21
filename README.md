@@ -5,7 +5,7 @@ Asset Msg Admin Dashboard built with Nuxt 3, Tailwind CSS, TypeScript, ESLint, P
 <!-- [feature](KEY-FEATURE.md) -->
 
 ## Demo
-
+[App URL](https://assets-workflow-approval.vercel.app/signin)
 
 ![image](https://github.com/phearunr/assets-workflow-approval/blob/main/assets-msg-dashboard.png)
 
